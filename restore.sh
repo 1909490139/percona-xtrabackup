@@ -59,3 +59,4 @@ else
     main
 fi
 
+echo $? > /data/restore.txt
